@@ -287,6 +287,18 @@ th {
   border: none;
   
 }
+.ExploreBtn1 {
+  background: #006a50;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 90px;
+}
+.ExploreBtn1:hover {
+  background-color: #005540;
+}
 
 .promise {
   text-align: center;
