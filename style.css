@@ -197,4 +197,100 @@ th {
   border-radius: 10px;
   height: 306px;
 }
+.donateSection {
+  width: 1280px;
+  margin: auto;
+}
+.donateHeading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.donateHeading p {
+  width: 1000px;
+  margin: auto;
+}
+.donateAmmountContainer {
+  display: flex;
+  gap: 30px;
+  width: 1070px;
+  /* margin:auto; */
+  justify-content: space-evenly;
+  padding: 30px;
+}
+.donateAmmount {
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 2px 2px 5px rgb(241, 239, 239);
+}
+.donateAmmount:hover {
+  background-color: #afeed0;
+}
+.taka200 {
+  background-color: #c6e4d6;
+}
+.taka200:hover {
+  background-color: #afeed0;
+}
+.OtherAmmount {
+  width: 1030px;
+  margin: 20px auto;
+  box-shadow: 2px 2px 2px rgb(241, 239, 239);
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(151, 150, 150);
+}
+.doneBtn {
+  display: flex;
+  margin: 20px auto;
+  padding: 17px 34px 17px 34px;
+}
+
+.footer {
+  width: 1280px;
+  margin: auto;
+  background: rgb(198, 228, 214);
+  padding: 30px 0px;
+  border-radius: 24px;
+}
+.footerHeader {
+  text-align: center;
+  font-weight: 700;
+  
+}
+.footerPeragraph {
+  width: 620px;
+  text-align: center;
+  margin: auto;
+}
+.Tk-Contain{
+  display: flex;
+  width: 1032px;
+  height: 64px;
+  margin: 10px auto;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400px;
+}
+
+.searchContainer {
+  width: 620px;
+  margin: 10px auto;
+  
+  /* background-color: red; */
+}
+.searchBar {
+  width: 500px;
+  padding: 10px;
+  border: none;
+  
+}
+
+.promise {
+  text-align: center;
+  margin: 30px auto;
+  color: darkgray;
+}
 
